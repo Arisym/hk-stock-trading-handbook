@@ -161,7 +161,7 @@
 
 ## 📧 联系方式
 
-作者：苏祎明
+作者：Arisym
 
 Email：arisym@163.com
 
@@ -171,7 +171,7 @@ Email：arisym@163.com
 
 ## 📜 Copyright
 
-Copyright © 2026 苏祎明.
+Copyright © 2026 Arisym.
 
 All Rights Reserved.
 
